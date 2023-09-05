@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a mobile web-app for geolocating invasive plant species<br>🤝👯 I’m looking to collaborate open source projects built with node/express and/or django.<br>🌱 I’m currently learning Devops with AWS, Docker and Kubernetes<br>
+🔭 I’m currently working on a mobile web-app for geolocating invasive plant species<br>🤝👯 I’m looking to collaborate open source projects built with node/express and/or django.<br>🌱 
 
 
 ## 🌐 Socials:
