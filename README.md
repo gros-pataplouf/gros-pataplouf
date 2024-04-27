@@ -12,7 +12,8 @@ All my projects are self-designed.
 <br>
 * [Plant-Tracker App 🌿](https://github.com/gros-pataplouf/plant-tracker) . React.js, Django, TailwindCSS, JWT Authentication, PostgreSQL/PostGIS. Deployed to Railway.app with AWS S3 for image storage.
 * A multilingual 🌎 personal [Portfolio Website](https://github.com/gros-pataplouf/portfolio). Server-side rendering with Django, Django CMS, Django Rosetta and Django Parler for multi-lingual support and Tailwind CSS. Deployed to Railway.app.
-* Work in progress: [🐝 Spelling-Bee](https://github.com/gros-pataplouf/plant-tracker). A multi-player version of the New York Time's online game featuring a Websocket (Django Channels). Currently developing the frontend in React.js / Type through TDD 
+* [🐝 Spelling-Bee](https://github.com/gros-pataplouf/spelling-bee). A multi-player version of the New York Time's online game featuring a Websocket (Django Channels). 
+* [👩‍💻 Time-Git](https://github.com/gros-pataplouf/time-git). WORK IN PROGRESS. A bash script to GIT_COMMITTER_DATE and GIT_AUTHOR_DATE with ease.
 
 ## 💻 Tech Stack:
 ### So far, my focus has been on: 
