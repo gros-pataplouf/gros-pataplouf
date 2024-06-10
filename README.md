@@ -5,7 +5,7 @@
 🎯 Are you looking for a web developer?  I am seeking employment as a web developer, ideally full-stack or backend, and would love to be part of your team. Let's talk!
 <br>
 <br>
-👥 Active member of the Tech community: Pair programming and practising TDD with Ladies of Code London, attending Tech Meetups in Kiel and Hamburg.
+👥 Active member of the Tech community: Pair programming and practising TDD with [Tech Risers Women](https://www.techriserswomen.com/), attending Tech Meetups in Kiel and Hamburg.
 
 ## 💻 Featured Projects:
 All my projects are self-designed. 
