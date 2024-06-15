@@ -1,8 +1,8 @@
 ## 💫 About Me:
-🔥 I’m a passionnate, fully self-taught web developer with focus on JavaScript/React.js and Python/Django. 
+🔥 I’m a passionnate, fully self-taught developer with focus on JavaScript/React.js and Python/Django. 
 <br>
 <br>
-🎯 Are you looking for a web developer?  I am seeking employment as a web developer, ideally full-stack or backend, and would love to be part of your team. Let's talk!
+🎯 Are you looking for a developer?  I am seeking employment as a web developer, ideally full-stack or backend, and would love to be part of your team. Let's talk!
 <br>
 <br>
 👥 Active member of the Tech community: Pair programming and practising TDD with [Tech Risers Women](https://www.techriserswomen.com/), attending Tech Meetups in Kiel and Hamburg.
